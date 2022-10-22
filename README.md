@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 
 $ chmod +x *
 
-$ python iplacak.py
+$ python lacakip.py
 
 🔗🔥How to use...
 
