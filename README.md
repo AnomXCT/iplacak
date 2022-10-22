@@ -1,5 +1,22 @@
 # iplacak
 
+🔗🔥Feutures and Contains :
+
+->  GOOGLE MAP✅️
+
+->  REGION NAME✅️
+
+->  FAST AND EASY✅️
+
+->  Get Full info OF IP✅️
+
+->  Get Location from IP✅️
+
+->  fully Support✅️
+
+->  Good Design✅️
+
+
 🔗🔥Installation for termux:
 
 $ apt update && apt upgrade
