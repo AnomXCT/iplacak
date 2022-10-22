@@ -26,7 +26,19 @@ $ chmod +x *
 
 $ python lacakip.py
 
-🔗🔥How to use...
+🔗🔥Usage : python iplacak.py -I (IP target)
+    To get IP information
+
+    Mandatory arguments to long options 
+    are mandatory for 
+    short options too
+        -h , --help         display this help and exit
+        -I , --ip           To get IP information
+
+    Use help
+
+        python lacakip.py --ip/-I [IP ADDRESS]
+
 
 $ python iplacak.py -I (IP target)
 
